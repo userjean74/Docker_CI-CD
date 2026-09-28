@@ -1,0 +1,24 @@
+{
+  "name": "docker_ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userjean74/Docker_CI-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/userjean74/Docker_CI-CD/issues"
+  },
+  "homepage": "https://github.com/userjean74/Docker_CI-CD#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
